@@ -1,0 +1,4 @@
+read miguel's blog on unit testing and work through it
+brush up on virtual environments and start using them in the algs and pythonds projects
+create unittests for binary heap file
+keep reading algs and implement dijkstra's algs using heaps
